@@ -4,4 +4,5 @@ date: 2026-01-13
 draft: false
 tags:
   - Novation Circuit
+  - Boss BR-600
 ---
