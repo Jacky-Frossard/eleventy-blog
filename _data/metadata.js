@@ -1,6 +1,6 @@
 module.exports = {
 	title: "Eleventy Base Blog v8",
-	url: "https://example.com/",
+	url: "https://tweaking-knobs.netlify.app",
 	language: "en",
 	description: "I am writing about my experiences as a naval navel-gazer.",
 	author: {
